@@ -94,4 +94,4 @@ Contributions are welcome! Please open an issue or submit a pull request to cont
 
 ## Support
 
-For support or questions, feel free to contact us at [support@example.com](mailto:support@example.com).
+For support or questions, feel free to contact us at [compoxition@gmail](mailto:compoxition@gmail.com).

@@ -1,0 +1,14 @@
+{
+    "name": "codeqasim/mailer",
+    "description": "A professional PHP email library.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CodeQasim\\Mailer\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
